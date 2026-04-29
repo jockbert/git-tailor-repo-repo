@@ -1,8 +1,8 @@
 apple
 anchor
 amber
-atlas
+atlas+1
 acorn
-apricot+1
+apricot+2
 avalanche
 asteroid+1
